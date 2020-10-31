@@ -1,0 +1,2 @@
+* EasyArch calamares installer
+  PKGBUILD for easyarch calamares installer.
