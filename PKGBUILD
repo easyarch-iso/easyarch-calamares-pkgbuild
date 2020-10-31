@@ -3,7 +3,7 @@ pkgver=2.1.0
 pkgrel=1
 pkgdesc="EasyArch Installer"
 arch=('x86_64')
-url=https://gitlab.com/easyarch-iso
+url=https://github.com/easyarch-iso
 source=("$pkgname-$pkgver::git+$url/easyarch-calamares.git")
 depends=(
     'parted'
